@@ -18,13 +18,13 @@ The replication package for all tables and figures:
 - The data are available from [Zenodo](https://doi.org/10.5281/zenodo.10184324).
 
 Cite the code:
-
+```
   Imbs, J., & Pauwels, L. (2023). Replication code for An Empirical Approximation of the Effects of Trade Sanctions with an Application to Russia (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.10184324
-
+```
 Cite the data:
-
+```
   Imbs, J., & Pauwels, L. (2023). Replication data for An Empirical Approximation of the Effects of Trade Sanctions with an Application to Russia [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10122045
-
+```
 ----
 
 ### Trade Sanction Dashboard: exposure.trade
