@@ -32,7 +32,7 @@ https://sites.google.com/view/vsarafidis/home?authuser=0
 Latest
 ------
 
-<span style="color:#143484;">October 2023</span>: We are launching our dashboard [exposure.trade](https://exposure.trade)
+<span style="color:#008529;"> November 2023:</span> We are launching our dashboard [exposure.trade](https://exposure.trade)
 
 [//]: <> This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) 
 
