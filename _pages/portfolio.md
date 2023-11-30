@@ -21,9 +21,10 @@ author_profile: true
 ## Citations
 **“Australia China Entrepreneurs and Cross-border Business Ecosystem.” Joint research report from KPMG, AustCham Shanghai, and the University of Sydney Business School, 2023** 
 
-- [The Australian Financial Review](https://www.afr.com/work-and-careers/careers/new-breed-of-chinese-australian-entrepreneurs-reimagines-business-20230530-p5dcg4), Printed edition, 1 June 2023 
-- [The ABC Australia](https://www.abc.net.au/chinese/2023-06-07/australia-china-entrepreneurs-and-their-business-future-report/102420578), Online, 7 June 2023
-- [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/new-study-shows-similarity-between-chinese-and-australian-entrepreneurs/6f4720lmo), Online 14 June 2023
+- Press coverage:
+  - [The Australian Financial Review](https://www.afr.com/work-and-careers/careers/new-breed-of-chinese-australian-entrepreneurs-reimagines-business-20230530-p5dcg4), Printed edition, 1 June 2023 
+  - [The ABC Australia](https://www.abc.net.au/chinese/2023-06-07/australia-china-entrepreneurs-and-their-business-future-report/102420578), Online, 7 June 2023
+  - [SBS Australia](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/new-study-shows-similarity-between-chinese-and-australian-entrepreneurs/6f4720lmo), Online 14 June 2023
 
 **“Twenty years of convergence”, ECB Forum on Central Banking 2019: 20 Years of European Economic and Monetary Union, European Central Bank, 2019.**
 
@@ -36,6 +37,11 @@ author_profile: true
   - [El País](https://elpais.com/economia/2019/06/17/actualidad/1560763208_197445.html), 18 June 2019
   - [Journal Económico](https://jornaleconomico.sapo.pt/noticias/estou-simplesmente-impressionado-com-o-que-mario-conseguiu-o-elogio-de-blanchard-a-draghi-457232), 18 June 2019
   - [DailyForex](https://www.dailyforex.com/forex-news/2019/06/eurozone-economies-are-converging/117782), 18 June 2019
+
+**"Box 2: The renminbi-US dollar exchange rate two years on," HKMA Half-Yearly Monetary and Financial Stability Report, June 2007**
+
+- Press coverage:
+  - [South China Morning Post](https://www.scmp.com/article/597675/hkma-sees-faster-expected-rise-yuan)
 
 ----
 
